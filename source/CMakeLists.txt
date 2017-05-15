@@ -17,6 +17,11 @@ add_executable(tests
   glew.c
   tests.cpp
   )
+# Build tests
+add_executable(beispielprogramm
+  beispielprogramm.cpp
+  )
+
 target_link_libraries(tests
   glfw
   ${GLFW_LIBRARIES}
