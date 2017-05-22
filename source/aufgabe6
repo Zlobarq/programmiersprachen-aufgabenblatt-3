@@ -1,0 +1,11 @@
+Beim sequellen Datastrukturen kann man die Elementen nach ihrem position ( auch nacheinander) rufen.
+Beim assoiative Datastrukturen haben die Elementen Keys,die man nutzt um sie zu rufen.
+Punkte eines Polygons:
+vector von objekten
+array von objekten
+RGB und Name:
+Map mit pair von rgb int fuer value und string fuer name.
+FIFO:
+vector
+->push_back
+->pop_back

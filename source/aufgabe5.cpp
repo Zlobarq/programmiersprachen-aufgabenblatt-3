@@ -1,7 +1,8 @@
-# define CATCH_CONFIG_RUNNER
-# include <catch.hpp>
-# include <cmath>
-# include <algorithm>
+#define CATCH_CONFIG_RUNNER
+#include <catch.hpp>
+#include <cmath>
+#include <algorithm>
+#include <vector>
 //initialize globally
 std::vector<unsigned int> vector= {};
 //function
